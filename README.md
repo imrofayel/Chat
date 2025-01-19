@@ -1,2 +1,1 @@
-# Chat
-untitled AI project.
+A local-first chatbot application that securely saves chats, organizes them by topics, offers powerful search, and provides export options like PDF and enhanced markdown for a seamless and privacy-focused experience.
